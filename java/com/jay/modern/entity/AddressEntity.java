@@ -11,6 +11,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
+//TODO Spring annotation 최대한 이용
 /**
  * @author : github.com/sharmasourabh
  * @project : Chapter09 - Modern API Development with Spring and Spring Boot
