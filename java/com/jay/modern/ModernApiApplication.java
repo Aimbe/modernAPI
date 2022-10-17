@@ -1,4 +1,4 @@
-package com.jay.modernapi;
+package com.jay.modern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
