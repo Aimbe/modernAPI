@@ -1,4 +1,4 @@
-package com.jay.modern;
+package com.jay.modern.controller;
 import static org.springframework.http.ResponseEntity.accepted;
 import static org.springframework.http.ResponseEntity.notFound;
 import static org.springframework.http.ResponseEntity.ok;
