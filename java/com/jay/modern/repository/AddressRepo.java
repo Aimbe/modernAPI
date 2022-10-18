@@ -1,4 +1,4 @@
-package com.jay.modern.repo;
+package com.jay.modern.repository;
 import com.packt.modern.api.entity.AddressEntity;
 import java.util.UUID;
 import org.springframework.data.repository.CrudRepository;
