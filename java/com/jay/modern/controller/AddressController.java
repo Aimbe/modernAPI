@@ -17,10 +17,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author : github.com/sharmasourabh
- * @project : Chapter09 - Modern API Development with Spring and Spring Boot
- **/
+
 @RestController
 public class AddressController implements AddressApi {
 

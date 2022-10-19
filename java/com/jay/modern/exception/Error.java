@@ -6,10 +6,7 @@ import org.apache.logging.log4j.util.Strings;
 /**
  * Error
  * <p>
- * Complex type that contains error details for a REST API calls.
- *
- * @author : github.com/sharmasourabh
- * @project : Chapter08 - Modern API Development with Spring and Spring Boot
+ * Error Controller 종류
  **/
 public class Error {
 
